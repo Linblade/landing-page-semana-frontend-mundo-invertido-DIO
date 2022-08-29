@@ -1,10 +1,12 @@
 <p align="center">
-    <img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">
+    <a href="https://landing-mundo-invertido-dio-08-2022.netlify.app/" target="blank"><img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg"> </a>
 </p>
 
 ---
 
 ## Semana Front-end Mundo Invertido com a DIO.\_
+
+### Para ver o site em funcionamento clique o [Demo](https://landing-mundo-invertido-dio-08-2022.netlify.app/)
 
 ## 💻 Tecnologias
 
